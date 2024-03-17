@@ -6,5 +6,6 @@
         <page name='var_let'/>
         <page name='decimal_numbers'/>
         <page name='boolean'/>
+        <page name='string_join'/>
     </pages>
 </playground>
