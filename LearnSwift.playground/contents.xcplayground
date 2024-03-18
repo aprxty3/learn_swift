@@ -10,5 +10,6 @@
         <page name='ordered_array'/>
         <page name='data_dictionary'/>
         <page name='set'/>
+        <page name='enums'/>
     </pages>
 </playground>
