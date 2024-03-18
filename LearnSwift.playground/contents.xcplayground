@@ -9,5 +9,6 @@
         <page name='string_join'/>
         <page name='ordered_array'/>
         <page name='data_dictionary'/>
+        <page name='set'/>
     </pages>
 </playground>
